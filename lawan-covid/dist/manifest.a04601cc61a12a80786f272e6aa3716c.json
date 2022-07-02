@@ -1,0 +1,52 @@
+{
+  "icons": [
+    {
+      "src": "icon_1024x1024.c31c965944fb986b8334e26ddce626ab.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon_1024x1024.c31c965944fb986b8334e26ddce626ab.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_512x512.4dc15ea8ed9b336b16c7e9f6045b4df1.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_384x384.0d29ef8bff3d2d335fb89d944f4356f0.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_256x256.8c00382604321810b469332d13b4572d.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192x192.0ede83898dd487c3b7f3b788fc433dd7.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_128x128.55fec9f68c2b4f5f5a07b460592149ac.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_96x96.8eaf7df8e0a16f03a8bf35c8946155d0.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Lawan Covid Web App",
+  "short_name": "Lawan Covid",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Pusat Informasi & Koordinasi Covid Indonesia",
+  "background_color": "#ffffff"
+}
